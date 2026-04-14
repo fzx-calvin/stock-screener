@@ -4,8 +4,8 @@
 An interactive web application for screening A‑share stocks based on common technical indicators.  
 Built with Python and Streamlit, it helps users quickly filter stocks using moving averages, RSI, and volume conditions.
 
-🔗 **Live Demo**: [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)  
-📂 **Source Code**: [https://github.com/yourusername/stock-screener](https://github.com/yourusername/stock-screener)
+🔗 **Live Demo**: [https://fzx-stock-screener.streamlit.app](https://fzx-stock-screener.streamlit.app)  
+📂 **Source Code**: [https://github.com/fzx-calvin/stock-screener](https://github.com/fzx-calvin/stock-screener)
 
 ---
 
